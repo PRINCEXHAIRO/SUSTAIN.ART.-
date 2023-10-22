@@ -1,3 +1,29 @@
 body {
-    background: peru;
+    background: #c8a2c8;
+}
+
+h1 { 
+    text-align: center;
+}
+
+h2, h3{
+    text-align: center;
+    background-color: aliceblue;  
+}
+
+.PoemHeader{
+    text-align: center;
+}
+
+#AbbeyCt{ 
+    text-align: center;
+    
+}
+
+.column{
+ 
+  width: 30%;
+  padding: 10px;
+  display: flex;
+  text-align: center;
 }
