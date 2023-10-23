@@ -11,19 +11,21 @@ h2, h3{
     background-color: aliceblue;  
 }
 
+p {
+    text-align: center;
+}
+
 .PoemHeader{
     text-align: center;
 }
 
 #AbbeyCt{ 
-    text-align: center;
-    
+    text-align: center; 
 }
-
 .column{
- 
-  width: 30%;
+  width: 55%;
   padding: 10px;
   display: flex;
-  text-align: center;
+  text-align: left;
+  background-color: aliceblue;
 }
